@@ -40,10 +40,10 @@ This system automatically analyzes and ranks resumes based on a given job descri
   - `Category`
 
 ## Future Improvements
-Add Streamlit UI
-Support PDF resume upload
-Use advanced NLP (spaCy / BERT)
-Deploy as web app
+- Add Streamlit UI
+- Support PDF resume upload
+- Use advanced NLP (spaCy / BERT)
+- Deploy as web app
 
 
 ##  How to Run
