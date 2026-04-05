@@ -39,8 +39,16 @@ This system automatically analyzes and ranks resumes based on a given job descri
   - `Resume_str`
   - `Category`
 
+## Future Improvements
+Add Streamlit UI
+Support PDF resume upload
+Use advanced NLP (spaCy / BERT)
+Deploy as web app
+
+
 ##  How to Run
 
 ```bash
 pip install -r requirements.txt
 python main.py
+
